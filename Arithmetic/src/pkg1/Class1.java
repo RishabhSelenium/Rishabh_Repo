@@ -5,9 +5,9 @@ public class Class1
 	
 public int sum(int a,int b) // int a and b local
 {
-	int c;
-	c=a+b;
-	return c;
+	int d;
+	d=a+b;
+	return d;
 }
 
 public int sub(int a,int b) // parameterized
